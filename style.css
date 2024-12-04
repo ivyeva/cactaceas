@@ -1,0 +1,47 @@
+body {
+    background-color: #f6eedb;
+}
+p, ul, ol {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 400;
+  }
+
+h1, h2, h3, h4, h5, h6, strong {
+    font-family: "Noto Sans", sans-serif;
+    font-weight: 600;
+}
+
+.img-full {
+    width: 100vw;
+    height: auto;
+}
+.img-border-redondo {
+    
+}
+
+.container-cactaceas {
+    background-color: #7cbfbe;
+}
+
+.cactacea-uno {
+    width: 200px;
+    height: auto;
+    border: 2px solid #fff;
+}
+
+.cactacea-dos {
+    width: 400px;
+    height: auto;
+    border-radius: 25px;
+}
+
+.cactacea-bg {
+    background-image: url("https://imgs.mongabay.com/wp-content/uploads/sites/25/2016/01/03173329/100488.jpg");
+    height: 600px;
+}
+
+.cactacea-aviso {
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+}
